@@ -4,10 +4,8 @@
 
 ## 使用方法
 
-### 处理单张图片：
-```bash
-python main.py /path/to/image.jpg --font-size 36 --color white --position bottom-right
+**处理单张图片：**
+`python main.py /path/to/image.jpg --font-size 36 --color white --position bottom-right`
 
-### 处理目录
-```bash
-python main.py /path/to/images --font-size 36 --color white --position bottom-right
+**处理目录：**
+`python main.py /path/to/images --font-size 36 --color white --position bottom-right`
